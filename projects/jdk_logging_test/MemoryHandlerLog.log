@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-12T01:25:08</date>
+  <millis>1607707508640</millis>
+  <sequence>0</sequence>
+  <logger>org.example.MemoryHandlerTest</logger>
+  <level>WARNING</level>
+  <class>org.example.MemoryHandlerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a WARNING log ...</message>
+</record>
+</log>

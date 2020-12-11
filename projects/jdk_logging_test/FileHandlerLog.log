@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-12T01:27:22</date>
+  <millis>1607707642919</millis>
+  <sequence>0</sequence>
+  <logger>org.example.FileHandlerTest</logger>
+  <level>SEVERE</level>
+  <class>org.example.FileHandlerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a SEVERE log ...</message>
+</record>
+<record>
+  <date>2020-12-12T01:27:22</date>
+  <millis>1607707642949</millis>
+  <sequence>1</sequence>
+  <logger>org.example.FileHandlerTest</logger>
+  <level>WARNING</level>
+  <class>org.example.FileHandlerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a WARNING log ...</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-12T01:27:56</date>
+  <millis>1607707676709</millis>
+  <sequence>0</sequence>
+  <logger>org.example.FileHandlerTest</logger>
+  <level>SEVERE</level>
+  <class>org.example.FileHandlerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a SEVERE log ...</message>
+</record>
+<record>
+  <date>2020-12-12T01:27:56</date>
+  <millis>1607707676739</millis>
+  <sequence>1</sequence>
+  <logger>org.example.FileHandlerTest</logger>
+  <level>WARNING</level>
+  <class>org.example.FileHandlerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a WARNING log ...</message>
+</record>
