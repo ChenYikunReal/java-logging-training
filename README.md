@@ -9,6 +9,7 @@
 - 日志Facade框架
     - [Apache Commons Logging](#JCL)
     - [Slf4j](#Slf4j)
+- 统一日志框架
 
 ## JUL
 ![](images/jdk-logging.png)
@@ -152,3 +153,32 @@
 ```
 
 4.使用Logback作为日志实现，只需要引入Logback包
+
+## 统一日志框架
+
+### Log4j → Slf4j
+```xml
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>log4j-over-slf4j</artifactId>
+    <version>1.7.30</version>
+</dependency>
+```
+
+### JUL → Slf4j
+```xml
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>jul-to-slf4j</artifactId>
+    <version>1.7.26</version>
+</dependency>
+```
+
+### JCL → Slf4j
+```xml
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>jul-to-slf4j</artifactId>
+    <version>1.7.26</version>
+</dependency>
+```
