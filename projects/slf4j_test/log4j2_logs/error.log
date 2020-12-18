@@ -1,0 +1,2 @@
+ERROR [main] 2020-12-18 21:24:09 (Slf4jTest.java:18) This is error message.
+ERROR [main] 2020-12-18 21:25:00 (Slf4jTest.java:18) This is error message.

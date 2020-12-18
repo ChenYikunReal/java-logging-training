@@ -1,0 +1,6 @@
+2020-12-18 14:36:43  [ main:0 ] - [ DEBUG ]  This is debug message.
+2020-12-18 14:36:43  [ main:7 ] - [ INFO ]  This is info message.
+2020-12-18 14:36:43  [ main:7 ] - [ ERROR ]  This is error message.
+2020-12-18 15:04:50  [ main:0 ] - [ DEBUG ]  This is debug message.
+2020-12-18 15:04:50  [ main:0 ] - [ INFO ]  This is info message.
+2020-12-18 15:04:50  [ main:0 ] - [ ERROR ]  This is error message.

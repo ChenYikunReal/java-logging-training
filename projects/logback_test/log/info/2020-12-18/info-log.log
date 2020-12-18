@@ -1,0 +1,2 @@
+2020-12-18 17:27:35.087 INFO  org.example.LogbackTest - This is info message.
+2020-12-18 17:30:08.015 INFO  org.example.LogbackTest - This is info message.

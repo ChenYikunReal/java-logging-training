@@ -1,0 +1,2 @@
+TRACE [main] 2020-12-18 21:24:09 (Slf4jTest.java:12) This is trace message.
+TRACE [main] 2020-12-18 21:25:00 (Slf4jTest.java:12) This is trace message.

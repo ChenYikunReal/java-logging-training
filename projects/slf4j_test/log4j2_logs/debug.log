@@ -1,0 +1,2 @@
+DEBUG [main] 2020-12-18 21:24:09 (Slf4jTest.java:14) This is debug message.
+DEBUG [main] 2020-12-18 21:25:00 (Slf4jTest.java:14) This is debug message.

@@ -1,0 +1,4 @@
+15:15:36.177 TRACE org.example.Log4j2Test 12 main - log4j2日志输出：This is trace message.
+15:15:36.181 DEBUG org.example.Log4j2Test 14 main - log4j2日志输出：This is debug message.
+15:15:36.181 INFO  org.example.Log4j2Test 16 main - log4j2日志输出：This is info message.
+15:15:36.183 ERROR org.example.Log4j2Test 18 main - log4j2日志输出：This is error message.
